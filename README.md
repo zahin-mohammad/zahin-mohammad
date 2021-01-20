@@ -4,8 +4,6 @@
 **zahin-mohammad/zahin-mohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on discord alert bot for cryptocurrencies
 - 🌱 I’m currently learning how to use `Grafana`
 - 👯 I’m looking to collaborate on machine learning projects using cryptocurrency market data
