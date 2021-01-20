@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning how to use `Grafana`
 - 👯 I’m looking to collaborate on machine learning projects using cryptocurrency market data
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
 - 📫 How to reach me: DM me on discord `zahin#0978`
 <!-- - ⚡ Fun fact: ... -->
 
