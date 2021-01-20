@@ -10,7 +10,6 @@
 <!-- - 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: DM me on discord `zahin#0978`
 <!-- - ⚡ Fun fact: ... -->
-
 [![Zahin's github stats](https://github-readme-stats.vercel.app/api?username=zahin-mohammad&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahin-mohammad)](https://github.com/anuraghazra/github-readme-stats)-->
