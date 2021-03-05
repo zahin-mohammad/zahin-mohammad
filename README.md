@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning how `Neural Networks` work
 - 📫 How to reach me: email me at `zahin.dev@gmail.com`
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zahin-mohammad&hide=stars&count_private=true&show_icons=true" alt="Github Stats">
+  </a>
+</p>
+
 ### Proficient
 <p align="center">
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white">
@@ -39,11 +45,3 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=zahin-mohammad&hide=stars&count_private=true&show_icons=true" alt="Github Stats">
-  </a>
-  	
-</p>
-<!--[![Zahin's github stats](https://github-readme-stats.vercel.app/api?username=zahin-mohammad&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
