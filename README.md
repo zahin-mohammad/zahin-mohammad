@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on various cryptocurrency realted projects (price scraping, alerts, bots, etc)
+- 🔭 I’m currently working on various projects in both digital and traditional finance
 - 🌱 I’m currently learning how `Neural Networks` work
 - 📫 How to reach me: email me at `zahin.dev@gmail.com`
 
