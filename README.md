@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning how `Neural Networks` work -->
 - 📫 How to reach me: email me at `zahin.dev@gmail.com`
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=zahin-mohammad&hide=stars&count_private=true&show_icons=true" alt="Github Stats">
   </a>
